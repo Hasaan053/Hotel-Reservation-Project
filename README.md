@@ -3,7 +3,7 @@
 This project implements a Hotel Booking Management System in C++. It provides functionalities for managing hotel bookings, including adding rooms, checking availability, handling customer check-ins and check-outs, and generating summaries of guest records.
 
 <h2>Features</h2>
-<h3></h3>Login System:</h3>
+<h3>Login System:</h3>
 Implements login functionality for both managers and administrators.
 
 <h3>Room Management:</h3>
@@ -60,11 +60,11 @@ Managers can add rooms and view customer records.
 Administrators can check room availability, search for rooms, check in customers, search for customers, display guest summaries, and check out customers.
 
 <h2>Contributing</h2>
-Contributions are welcome! If you'd like to contribute to the project, please fork the repository and submit a pull request.
+<b>Contributions are welcome!</b> If you'd like to contribute to the project, please fork the repository and submit a pull request.
 
 <h2>License</h2>
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed for free. You can freely use this for personal.
 
 <h2>Acknowledgments</h2>
-This project was inspired by the need for a simple and efficient hotel booking management system.
+<b>This project was inspired by the need for a simple and efficient hotel booking management system.</b>
 
